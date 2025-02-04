@@ -1,4 +1,4 @@
-# **IndexUpdater** :rocket:
+# **IndexUpdater** 
 
 ![Logo do Projeto](https://via.placeholder.com/800x200?text=IndexUpdater+Logo)
 
