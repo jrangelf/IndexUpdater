@@ -1,8 +1,9 @@
-# **IndexUpdater** 
+# **atualiza-indices** 
 
 ![Logo do Projeto](https://via.placeholder.com/800x200?text=IndexUpdater+Logo)
 
-**IndexUpdater** é um programa desenvolvido em Python que automatiza a atualização de índices monetários, indexadores e taxas de juros armazenados em um banco de dados PostgreSQL. Ele foi projetado para garantir que suas tabelas estejam sempre atualizadas com os valores mais recentes fornecidos pela API do Banco Central.
+**atualiza-indices** é um projeto com vários códigos desenvolvido em Python que automatiza a atualização de índices monetários, indexadores e taxas de juros armazenados em um banco de dados PostgreSQL. Ele foi projetado para garantir que as tabelas desse banco estejam sempre atualizadas com os valores mais recentes dos indexadores fornecidos pela API do Banco Central.
+Cabe ressaltar que esse módulo é utilizado principalmente para atualizar o banco de dados de uma API, desenvolvida para fornecer os índices econômicos utilizados pela Advocacia-Geral da União. Esses índices são formados por vários indexadores econômicos e possui ordem de formação específica.
 
 ---
 
